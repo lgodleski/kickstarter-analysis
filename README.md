@@ -16,6 +16,7 @@ Failed Kickstarter campaigns had much higher fundraising goals than successful K
 ### Louise should launch her Kickstarter campaign in the month of May
 ### Louise should lower her Kickstarter goal, closer to $5,000
 
+# Deliverable 3
 # Kickstarting with Excel
 
 ## Overview of Project
